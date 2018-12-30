@@ -1,0 +1,17 @@
+e4ab5340b1e1018bec51a0aba0db11ec *DESCRIPTION
+d9537fee75548e196e2e5f1023599325 *NAMESPACE
+68f2aafc744b494721c151ffb922a855 *R/bootwrq.R
+d147595dc21a739e01e70f3acfc00a3b *R/onewrq.R
+24701c66b3352104cee77f003c8f5d7a *R/summary.bootwrq.R
+a81bb0c642c0a031f3d34b0884936fa8 *R/test.bootwrq.R
+4a56cc6b573b8ba30f00e374151d29e4 *R/weightsIMD.R
+fe2ab51a164cfcda9faea1eba1dfe0a8 *R/weightsMMD.R
+5ae750373f209c99b171603b7b28d7ef *build/partial.rdb
+f844568ca90d1cb7c5b3ce9be859f1e1 *data/simdata.rda
+ac1c7f40243c14f34ba06067cbc38dcf *man/bootwrq.Rd
+898015323f07e1b8a64c21c54fca88f9 *man/simdata.Rd
+70d1b4750a1b441cdb56f9782ed82d28 *man/summary.bootwrq.Rd
+839498cd57f7a37497d917e509048c78 *man/test.bootwrq.Rd
+3e23c7e261f4ccd553c10059cc35423e *man/weightQuant-package.Rd
+69e1fd33a118401e149a4515b6ef3599 *man/weightsIMD.Rd
+ff135e676fbd47c498af21cfc9ade81b *man/weightsMMD.Rd
